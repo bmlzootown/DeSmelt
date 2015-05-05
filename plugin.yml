@@ -1,0 +1,13 @@
+name: DeSmelt
+main: me.bml.DeSmelt
+description: DeSmelts stone/metal-based items in exchange for their raw ingredients
+version: 1.0
+
+commands:
+  gamemode:
+   description: Testing
+  gm:
+   description: Testing
+permissions:
+    pasta:
+        default: op
